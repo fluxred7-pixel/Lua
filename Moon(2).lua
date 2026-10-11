@@ -1,4 +1,5 @@
-https://www.mediafire.com/file/neg6dimf7e8f1gl/zina_ext_soure.zip/filelocal WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
+https://www.mediafire.com/file/bs12z2e3zhhx2bl/zina_ext_soure+(2).zip/file 
+local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
